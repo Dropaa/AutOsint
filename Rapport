@@ -1,3 +1,0 @@
-python3 -m pip install requests
-python3 -m pip install python-dotenv
-python3 -m pip install shodan
