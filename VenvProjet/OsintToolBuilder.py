@@ -1,6 +1,8 @@
 from OsintTool import OsintTool
 from Shodan import Shodan
+from TheHarvester import TheHarvester
 from UrlScan import UrlScan
+from Dnscan import Dnscan
 
 
 class OsintToolBuilder:
@@ -11,5 +13,9 @@ class OsintToolBuilder:
 				return UrlScan(params)	
 			case "shodan":
 				return Shodan(params)
+			case "theharvester":
+				return TheHarvester(params)
+			case "dnscan":
+				return Dnscan(params)
 			case _:
 				return UrlScan(params)
