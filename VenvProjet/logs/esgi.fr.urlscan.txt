@@ -1,0 +1,125 @@
+URL ==> RemoteIPAdress: 
+
+https://www.esgi.fr/ ==> 20.74.67.225
+https://cache.consentframework.com/js/pa/28365/c/zKrR3/stub ==> 2606:4700:20::681a:566
+https://choices.consentframework.com/js/pa/28365/c/zKrR3/cmp ==> 212.129.3.112
+https://www.esgi.fr/wp-includes/css/dist/block-library/style.min.css ==> 20.74.67.225
+https://flow.lead-ia.com/chatbot/c75ad02c-8076-4b90-959a-669f9ae7d618.js ==> 15.188.68.135
+https://www.esgi.fr/shared/apps/themeCore/assets/js/cookies.lead.js ==> 20.74.67.225
+https://www.esgi.fr/sites/themes/esgi-2019/assets/js//jquery-3.4.1.min.js ==> 20.74.67.225
+https://www.esgi.fr/sites/plugins/wp-rocket/assets/js/lazyload/17.5/lazyload.min.js ==> 20.74.67.225
+https://www.esgi.fr/sites/themes/esgi-2019/assets/js//system.js ==> 20.74.67.225
+https://www.esgi.fr/sites/themes/esgi-2019/assets/js//image-loader.js ==> 20.74.67.225
+https://www.esgi.fr/sites/themes/esgi-2019/module/moduleMenu/moduleMenu.js ==> 20.74.67.225
+https://www.esgi.fr/sites/themes/esgi-2019/module/moduleMenu/reseausociaux.js ==> 20.74.67.225
+https://www.esgi.fr/sites/themes/esgi-2019/module/moduleFlashInfo/moduleFlashInfo.js ==> 20.74.67.225
+https://www.esgi.fr/sites/themes/esgi-2019/module/moduleListingCampus/moduleListingCampus.js ==> 20.74.67.225
+https://www.esgi.fr/sites/themes/esgi-2019/module/modulePortailHomepage/modulePortailHomepage.js ==> 20.74.67.225
+https://www.esgi.fr/sites/themes/esgi-2019/module/moduleTexteVideo/moduleTexteVideo.js ==> 20.74.67.225
+https://www.esgi.fr/sites/themes/esgi-2019/assets/fonts//Roboto/Roboto-Regular/Roboto-Regular.woff2 ==> 20.74.67.225
+https://www.googletagmanager.com/gtm.js?id=GTM-TRCHFBC ==> 2a00:1450:4001:809::2008
+https://www.esgi.fr/sites/themes/esgi-2019/assets/fonts//Roboto/Roboto-Bold/Roboto-Bold.woff2 ==> 20.74.67.225
+https://www.esgi.fr/sites/themes/esgi-2019/assets/fonts//CenturyGothic/CenturyGothic-Bold/CenturyGothic-Bold.woff2 ==> 20.74.67.225
+https://www.esgi.fr/sites/themes/esgi-2019/assets/fonts//MonumentExtended/MonumentExtended-Bold/MonumentExtended-Bold.woff2 ==> 20.74.67.225
+https://www.esgi.fr/sites/themes/esgi-2019/assets/fonts//MonumentExtended/MonumentExtended-Regular/MonumentExtended-Regular.woff2 ==> 20.74.67.225
+https://www.esgi.fr/sites/themes/esgi-2019/assets/fonts//MonumentExtended/MonumentExtended-Ultrabold/MonumentExtended-Ultrabold.woff2 ==> 20.74.67.225
+https://www.esgi.fr/sites/themes/esgi-2019/assets/fonts//Roboto/Roboto-Medium/Roboto-Medium.woff2 ==> 20.74.67.225
+https://www.esgi.fr/ecole-informatique/programme-grande-ecole-portail-desktop.jpg ==> 20.74.67.225
+https://www.esgi.fr/ecole-informatique/vae-formation-continue-portail-desktop.jpg ==> 20.74.67.225
+https://www.esgi.fr/ecole-informatique/formation-online-alternance-portail-desktop.jpg ==> 20.74.67.225
+https://i.ytimg.com/vi/Qr36C50ybU0/hqdefault.jpg ==> 2a00:1450:4001:82f::2016
+https://flow.lead-ia.com/chatbot/c75ad02c-8076-4b90-959a-669f9ae7d618.js?reload=true&lang=fr-FR ==> 15.188.68.135
+https://flow.lead-ia.com/stylesheet/c75ad02c-8076-4b90-959a-669f9ae7d618.css?cache=v1 ==> 15.188.68.135
+https://www.google-analytics.com/analytics.js ==> 2a00:1450:4001:82f::200e
+https://bat.bing.com/bat.js ==> 2620:1ec:c11::200
+https://connect.facebook.net/en_US/fbevents.js ==> 2a03:2880:f02d:12:face:b00c:0:3
+https://adaccess.fr/a/mtag/?async=&id=41619 ==> 2a06:98c1:3120::3
+https://www.googletagmanager.com/gtag/js?id=G-JFNJTQW0NP&l=dataLayer&cx=c ==> 2a00:1450:4001:809::2008
+https://www.googletagmanager.com/gtag/js?id=G-B9F9L5Z6TY&l=dataLayer&cx=c ==> 2a00:1450:4001:809::2008
+https://choices.consentframework.com/api/v1/public/profile/check?origin=https://www.esgi.fr ==> 212.129.3.112
+https://assets.lead-ia.com/jquery-1.12.4.min.js ==> 52.222.236.35
+https://bat.bing.com/p/action/56372784.js ==> 2620:1ec:c11::200
+https://bat.bing.com/action/0?ti=56372784&tm=gtm002&Ver=2&mid=c2766b73-f56a-40b9-8a1c-f1d783fcfcb1&sid=451b7be0796411ed97dd854e3e101912&vid=451b8e60796411ed8975315f2291a88f&vids=1&msclkid=N&pi=1200101525&lg=en-US&sw=1600&sh=1200&sc=24&tl=ESGI%20%7C%20L%27%C3%89cole%20d%27Informatique%20en%20Alternance&p=https%3A%2F%2Fwww.esgi.fr%2F&r=&lt=3551&evt=pageLoad&sv=1&rn=448483 ==> 2620:1ec:c11::200
+https://choices.consentframework.com/api/v1/public/v2/tcstring ==> 212.129.3.112
+https://connect.facebook.net/signals/config/787029782009422?v=2.9.89&r=stable ==> 2a03:2880:f02d:12:face:b00c:0:3
+https://assets.lead-ia.com/jquery-ui.min.js ==> 52.222.236.35
+https://choices.consentframework.com/api/v1/public/consent-string ==> 212.129.3.112
+https://choices.consentframework.com/api/v1/public/consent-string ==> 212.129.3.112
+https://pagead2.googlesyndication.com/pagead/landing?gcs=G100&gcd=G100&rnd=72881266.1670770708&url=https%3A%2F%2Fwww.esgi.fr%2F&gtm=2wgbu0TRCHFBC ==> 2a00:1450:4001:828::2002
+https://region1.google-analytics.com/g/collect?v=2&tid=G-B9F9L5Z6TY&gtm=2oebu0&_p=1160933712&gcs=G100&cid=693862089.1670770708&ul=en-us&sr=1600x1200&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&_s=1&sid=1670770708&sct=1&seg=0&dl=https%3A%2F%2Fwww.esgi.fr%2F&dt=ESGI%20%7C%20L%27%C3%89cole%20d%27Informatique%20en%20Alternance&en=page_view&_fv=1&_ss=1 ==> 2001:4860:4802:34::36
+https://region1.google-analytics.com/g/collect?v=2&tid=G-JFNJTQW0NP&gtm=2oebu0&_p=1160933712&gcs=G100&cid=693862089.1670770708&ul=en-us&sr=1600x1200&uaa=&uab=&uafvl=&uamb=0&uam=&uap=&uapv=&uaw=0&_s=1&sid=1670770708&sct=1&seg=0&dl=https%3A%2F%2Fwww.esgi.fr%2F&dt=ESGI%20%7C%20L%27%C3%89cole%20d%27Informatique%20en%20Alternance&en=page_view&_fv=1&_ss=1 ==> 2001:4860:4802:34::36
+https://www.google-analytics.com/collect?v=1&_v=j98&a=1160933712&t=pageview&_s=1&dl=https%3A%2F%2Fwww.esgi.fr%2F&ul=en-us&de=UTF-8&dt=ESGI%20%7C%20L%27%C3%89cole%20d%27Informatique%20en%20Alternance&sd=24-bit&sr=1600x1200&vp=1600x1200&je=0&_u=aEAAAAABEAAAAAAAAk~&cid=693862089.1670770708&tid=UA-46336871-7&_gid=1143010536.1670770708&gtm=2wgbu0TRCHFBC&gcs=G100&z=1204429756 ==> 2a00:1450:4001:82f::200e
+https://www.google-analytics.com/collect?v=1&_v=j98&a=1160933712&t=pageview&_s=1&dl=https%3A%2F%2Fwww.esgi.fr%2F&ul=en-us&de=UTF-8&dt=ESGI%20%7C%20L%27%C3%89cole%20d%27Informatique%20en%20Alternance&sd=24-bit&sr=1600x1200&vp=1600x1200&je=0&_u=aEgAAAABEAAAAAAAAk~&cid=693862089.1670770708&tid=UA-46336871-3&_gid=9656121.1670770708&gtm=2wgbu0TRCHFBC&gcs=G100&z=1118636457 ==> 2a00:1450:4001:82f::200e
+https://choices.consentframework.com/api/v1/public/user-action ==> 212.129.3.112
+https://choices.consentframework.com/api/v1/public/user-action ==> 212.129.3.112
+https://assets.lead-ia.com/simpleslider.min.js ==> 52.222.236.35
+https://assets.lead-ia.com/animate.min.css ==> 52.222.236.35
+https://connect.facebook.net/signals/config/679172279150370?v=2.9.89&r=stable ==> 2a03:2880:f02d:12:face:b00c:0:3
+https://www.facebook.com/tr/?id=787029782009422&ev=PageView&dl=https%3A%2F%2Fwww.esgi.fr%2F&rl=&if=false&ts=1670770708382&sw=1600&sh=1200&v=2.9.89&r=stable&ec=0&o=30&fbp=fb.1.1670770708380.1211035324&it=1670770708188&coo=false&rqm=GET ==> 2a03:2880:f11c:8083:face:b00c:0:25de
+https://flow.lead-ia.com/chat/c75ad02c-8076-4b90-959a-669f9ae7d618?&lang=fr-FR&history=true&url=https%253A%252F%252Fwww.esgi.fr%252F&callback=jQuery112407055478513792202_1670770708194&_=1670770708195 ==> 15.188.68.135
+https://ad.adxcore.com/static/js/components/advstlib/mtag.min.js ==> 2606:4700:10::6816:30e3
+https://adaccess.fr/a/mtag/?async=&id=41618 ==> 2a06:98c1:3120::3
+https://www.facebook.com/tr/?id=679172279150370&ev=PageView&dl=https%3A%2F%2Fwww.esgi.fr%2F&rl=&if=false&ts=1670770708444&sw=1600&sh=1200&v=2.9.89&r=stable&a=tmgoogletagmanager&ec=0&o=30&fbp=fb.1.1670770708380.1211035324&it=1670770708188&coo=false&rqm=GET ==> 2a03:2880:f11c:8083:face:b00c:0:25de
+https://ad.adxcore.com/static/js/components/advstlib/advstlib.min.js?v=b89b2130 ==> 2606:4700:10::6816:30e3
+https://assets.lead-ia.com/logo.png ==> 52.222.236.35
+https://assets.lead-ia.com/logos/bot_logo_5.png ==> 52.222.236.35
+https://c.amazon-adsystem.com/aax2/apstag.js ==> 65.9.71.118
+https://s.yimg.com/wi/ytc.js ==> 2a00:1288:80:807::2
+https://c.amazon-adsystem.com/bao-csm/aps-comm/aps_csm.js ==> 65.9.71.118
+https://s.yimg.com/wi/config/10169016.json ==> 2a00:1288:80:807::2
+https://www.google-analytics.com/collect?v=1&_v=j98&a=1160933712&t=event&ni=0&_s=1&dl=https%3A%2F%2Fwww.esgi.fr%2F&ul=en-us&de=UTF-8&dt=ESGI%20%7C%20L%27%C3%89cole%20d%27Informatique%20en%20Alternance&sd=24-bit&sr=1600x1200&vp=1600x1200&je=0&ec=Scroll%20Depth&ea=%2F&el=25%25&_u=aEgAAAABEAAAAAAAAk~&cid=693862089.1670770708&tid=UA-46336871-7&_gid=787491584.1670770709&gtm=2wgbu0TRCHFBC&gcs=G100&z=958726776 ==> 2a00:1450:4001:82f::200e
+https://www.facebook.com/tr/ ==> 2a03:2880:f11c:8083:face:b00c:0:25de
+https://www.facebook.com/tr/ ==> 2a03:2880:f11c:8083:face:b00c:0:25de
+
+-----------------------------------------
+
+SUBDOMAINS: 
+
+www.esgi.fr
+choices.consentframework.com
+assets.lead-ia.com
+www.facebook.com
+ad.adxcore.com
+www.google-analytics.com
+flow.lead-ia.com
+connect.facebook.net
+bat.bing.com
+www.googletagmanager.com
+s.yimg.com
+c.amazon-adsystem.com
+region1.google-analytics.com
+adaccess.fr
+mtag.adxcore.com
+pagead2.googlesyndication.com
+i.ytimg.com
+cache.consentframework.com
+esgi.fr
+
+----------------------------------------
+
+CERTIFICATES : 
+
+Le certificat pour le sujet : esgi.fra été accordé par : R3
+Le certif est valable depuis : 26/10/2022 et s'arrête le : 24/01/2023soit un temps restant de : 89 jours
+Le certificat pour le sujet : sni.cloudflaressl.coma été accordé par : Cloudflare Inc ECC CA-3
+Le certif est valable depuis : 23/05/2022 et s'arrête le : 24/05/2023soit un temps restant de : 365 jours
+Le certificat pour le sujet : *.consentframework.coma été accordé par : RapidSSL TLS DV RSA Mixed SHA256 2020 CA-1
+Le certif est valable depuis : 22/03/2022 et s'arrête le : 22/03/2023soit un temps restant de : 364 jours
+Le certificat pour le sujet : lead-ia.coma été accordé par : Amazon
+Le certif est valable depuis : 19/11/2022 et s'arrête le : 17/12/2023soit un temps restant de : 392 jours
+Le certificat pour le sujet : *.google-analytics.coma été accordé par : GTS CA 1C3
+Le certif est valable depuis : 07/11/2022 et s'arrête le : 30/01/2023soit un temps restant de : 83 jours
+Le certificat pour le sujet : edgestatic.coma été accordé par : GTS CA 1C3
+Le certif est valable depuis : 07/11/2022 et s'arrête le : 30/01/2023soit un temps restant de : 83 jours
+Le certificat pour le sujet : www.bing.coma été accordé par : Microsoft RSA TLS CA 02
+Le certif est valable depuis : 25/11/2022 et s'arrête le : 25/05/2023soit un temps restant de : 181 jours
+Le certificat pour le sujet : *.facebook.coma été accordé par : DigiCert SHA2 High Assurance Server CA
+Le certif est valable depuis : 19/09/2022 et s'arrête le : 19/12/2022soit un temps restant de : 90 jours
+Le certificat pour le sujet : assets.lead-ia.coma été accordé par : Amazon
+Le certif est valable depuis : 06/09/2022 et s'arrête le : 06/10/2023soit un temps restant de : 394 jours
+Le certificat pour le sujet : *.g.doubleclick.neta été accordé par : GTS CA 1C3
+Le certif est valable depuis : 07/11/2022 et s'arrête le : 30/01/2023soit un temps restant de : 83 jours
+Le certificat pour le sujet : c.amazon-adsystem.coma été accordé par : Amazon
+Le certif est valable depuis : 09/05/2022 et s'arrête le : 19/04/2023soit un temps restant de : 344 jours
+Le certificat pour le sujet : *.api.fantasysports.yahoo.coma été accordé par : DigiCert SHA2 High Assurance Server CA
+Le certif est valable depuis : 28/11/2022 et s'arrête le : 19/01/2023soit un temps restant de : 51 jours
