@@ -2,7 +2,7 @@
 
 if [ $UID -eq 0 ]; then
     echo "Execution du script d'installation"
-    mkdir VenvProjet/logs && chmod 777
+    mkdir VenvProjet/logs && chmod 777 VenvProjet/logs
     git clone https://github.com/rbsec/dnscan.git
     cd dnscan && pip install -r requirements.txt
     cd ../ && pip install -r requirements.txt
