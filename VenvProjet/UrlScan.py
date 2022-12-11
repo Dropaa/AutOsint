@@ -65,4 +65,4 @@ class UrlScan(OsintTool):
             self.output_data.append("Le certif est valable depuis : " + dateFrom.strftime("%d/%m/%Y") + " et s'arrête le : " + dateTo.strftime("%d/%m/%Y") + "soit un temps restant de : " + str(delta.days) + " jours")
             
     def output(self):
-        write_file(urlparse(self.params["url"]).netloc ,self.params["output"], "\n".join(self.output_data))
+        write_file(urlparse(self.params["url"]).netloc, "urlscan.txt", "\n".join(self.output_data))
