@@ -1,8 +1,8 @@
 {
 	"activeTools": {
-		"urlscan": false,
-		"shodan": false,
-		"dnscan": false,
+		"urlscan": true,
+		"shodan": true,
+		"dnscan": true,
         "theharvester": true
 	}
 }
