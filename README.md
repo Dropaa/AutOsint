@@ -17,7 +17,7 @@ Usage
 -----
 
 #### Utilisation de la commande
-    dnscan.py (-d | --domain \<domain\> )
+    python3 main.py (-d | --domain \<domain\> )
     Domain = https://esgi.fr 
 
 -----
