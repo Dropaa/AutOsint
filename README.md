@@ -7,9 +7,16 @@ Le script ce base sur 4 outils pour sa recherche :
 - URLScan
 - Dnscan
 
+Setup
+-----
+Le setup de l'outil se fait automatiquement via le script install.sh et nécéssite une connexion internet
+#### Execution du script d'installation
+    chmod +x install.sh && ./install.sh
+
 Usage
 -----
 
 #### Utilisation de la commande
     dnscan.py (-d | --domain \<domain\> )
     Domain = https://esgi.fr 
+
