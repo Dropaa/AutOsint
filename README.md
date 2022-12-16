@@ -1,7 +1,7 @@
 AutOsint
 ======
 AutOsint est un outil automatisé permettant la recherche d'informations en sources ouvertes.
-Le script ce base sur 4 outils pour sa recherche :
+Le script se base sur 4 outils pour sa recherche :
 - TheHarvester
 - Shodan
 - URLScan
