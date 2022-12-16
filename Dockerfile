@@ -1,3 +1,4 @@
 FROM python:latest
-COPY VenvProjet/main.py /
-CMD ["python3", "/main.py"]
+COPY VenvProjet/main.py /app
+WORKDIR /app
+ENTRYPOINT ["python3", "main.py"]
