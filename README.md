@@ -13,6 +13,15 @@ Le setup de l'outil se fait automatiquement via le script install.sh et nécéss
 #### Execution du script d'installation
     chmod +x install.sh && sudo ./install.sh
 
+Usage
+-----
+
+#### Utilisation de la commande
+    python3 main.py (-d | --domain \<domain\> )
+    Domain = https://esgi.fr 
+
+Il existe dans le fichier "VenvProjet/logs/" tous l'hitorique des outils concernant votre domaine. 
+
 
 Modifications possibles
 -----
@@ -25,12 +34,3 @@ Il est possible de placer l'application dans un docker.
 #### Setup du Docker
     chmod +x docker.sh && sudo ./docker.sh
     Lancer l'outil -> docker run autosint
-    
-Usage
------
-
-#### Utilisation de la commande
-    python3 main.py (-d | --domain \<domain\> )
-    Domain = https://esgi.fr 
-
-Il existe dans le fichier "VenvProjet/logs/" tous l'hitorique des outils concernant votre domaine. 
