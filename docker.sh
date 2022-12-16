@@ -3,6 +3,7 @@
 if [ $UID -eq 0 ]; then
     echo "Execution du script Docker !"
     apt install docker.io
+    mkdir /app
     docker build -t autosint .
     echo "Installation terminée ! Tapez : 'sudo docker run autosint' pour que lancer AutOsint !"
 else
