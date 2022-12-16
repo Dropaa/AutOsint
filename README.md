@@ -9,6 +9,7 @@ Le script ce base sur 4 outils pour sa recherche :
 
 Usage
 -----
+
 #### Utilisation de la commande
-dnscan.py (-d | --domain \<domain\> )
-Domain = https://esgi.fr 
+    dnscan.py (-d | --domain \<domain\> )
+    Domain = https://esgi.fr 
