@@ -11,8 +11,17 @@ Setup
 -----
 Le setup de l'outil se fait automatiquement via le script install.sh et nécéssite une connexion internet.
 #### Execution du script d'installation
-    chmod +x install.sh && ./install.sh
-
+    chmod +x install.sh && sudo ./install.sh
+-----
+Il est possible de choisir quels type d'outils seront lancés pendant l'éxécution d'AutOsint.
+#### Modification du fichier de conf
+    Pour désactiver l'utilisation d'URLScan, on passe l'argument à false dans le fichier conf.json 
+    "urlscan": false,
+-----
+Il est possible de placer l'application dans un docker.
+#### Setup du Docker
+    chmod +x docker.sh && sudo ./docker.sh
+    Lancer l'outil -> docker run autosint
 Usage
 -----
 
@@ -20,8 +29,4 @@ Usage
     python3 main.py (-d | --domain \<domain\> )
     Domain = https://esgi.fr 
 
------
-Il est possible de choisir quels type d'outils seront lancés pendant l'éxécution d'AutOsint.
-#### Modification du fichier de conf
-    Pour désactiver l'utilisation d'URLScan, on passe l'argument à false dans le fichier conf.json 
-    "urlscan": false,
+Il existe dans le fichier "VenvProjet/logs/" tous l'hitorique des outils concernant votre domaine. 
