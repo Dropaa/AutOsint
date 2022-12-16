@@ -12,6 +12,9 @@ Setup
 Le setup de l'outil se fait automatiquement via le script install.sh et nécéssite une connexion internet.
 #### Execution du script d'installation
     chmod +x install.sh && sudo ./install.sh
+
+
+Modifications possibles
 -----
 Il est possible de choisir quels type d'outils seront lancés pendant l'éxécution d'AutOsint.
 #### Modification du fichier de conf
@@ -22,6 +25,7 @@ Il est possible de placer l'application dans un docker.
 #### Setup du Docker
     chmod +x docker.sh && sudo ./docker.sh
     Lancer l'outil -> docker run autosint
+    
 Usage
 -----
 
