@@ -20,3 +20,8 @@ Usage
     dnscan.py (-d | --domain \<domain\> )
     Domain = https://esgi.fr 
 
+-----
+Il est possible de choisir quels type d'outil seront lancer pendant l'éxécution d'AutOsint.
+#### Modification du fichier de conf
+    Pour désactiver l'utilisation d'URLScan, on passe l'argument à false dans le fichier conf.json 
+    "urlscan": false,
